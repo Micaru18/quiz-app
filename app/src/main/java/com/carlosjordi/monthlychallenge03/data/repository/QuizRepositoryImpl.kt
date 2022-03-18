@@ -10,6 +10,9 @@ class QuizRepositoryImpl : QuizRepository {
         listOf(
             Question(R.string.question_01, R.array.answers_01),
             Question(R.string.question_02, R.array.answers_02),
+            Question(R.string.question_03, R.array.answers_03),
+
+
         )
     )
 

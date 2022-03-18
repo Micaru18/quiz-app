@@ -2,4 +2,5 @@
 <resources>
     <string name="question_01">Pregunta de prueba</string>
     <string name="question_02">Pregunta de prueba 2</string>
+    <string name="question_03">Pregunta de prueba 3</string>
 </resources>
